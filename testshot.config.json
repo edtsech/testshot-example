@@ -1,0 +1,6 @@
+{
+  "port": 5001,
+  "snapshots_path": "snapshots",
+  "entry_url": "http://localhost:5000/assets/js/init.js",
+  "template_path": "testshot/template.ejs"
+}
